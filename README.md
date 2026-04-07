@@ -10,4 +10,4 @@ This repository contains FIJI scripts (.ijm and .py), as well as CellProfiler pi
 **FIJI/ImageJ:** 1.54p  
 **CellProfiler:** 4.2.8
 
-The testfile-bioprotocol.tif is a representative two-channel image, containing NFH (channel 1, gray) and pTDP-43 (channel 2, red) that users can use to learn, and familiarize themselves with the analysis steps. 
+The testfile-bioprotocol.tif is a representative two-channel image, containing pTDP43 (channel 1, red) and NFH (channel 2, gray) that users can use to learn, and familiarize themselves with the analysis steps. 
