@@ -9,3 +9,5 @@ This repository contains FIJI scripts (.ijm and .py), as well as CellProfiler pi
 # Software versions
 **FIJI/ImageJ:** 1.54p  
 **CellProfiler:** 4.2.8
+
+The “image” folder contains a representative two-channel image (NFH and pTDP-43) that users can use to learn, and familiarize themselves with the analysis steps
